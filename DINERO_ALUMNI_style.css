@@ -1,0 +1,324 @@
+		--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1366___1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1366___1 {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1366px;
+		height: 768px;
+		background-color: rgba(230,230,230,1);
+		overflow: hidden;
+		--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1066px;
+		height: 80px;
+		left: 300px;
+		top: 0px;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 306px;
+		height: 768px;
+		left: 0px;
+		top: 0px;
+	}
+	#My_UIC {
+		position: absolute;
+		width: 173px;
+		height: 72px;
+		left: 67px;
+		top: 3px;
+		overflow: visible;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 258px;
+		height: 1px;
+		left: 0.5px;
+		top: 80.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#HOME {
+		position: absolute;
+		left: 93px;
+		top: 120px;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#USER_PROFILE {
+		position: absolute;
+		left: 93px;
+		top: 184px;
+		overflow: visible;
+		width: 134px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#PROGRAMS {
+		position: absolute;
+		left: 89px;
+		top: 315px;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#University_of_the_Immaculate_C {
+		position: absolute;
+		left: 454px;
+		top: 6px;
+		overflow: visible;
+		width: 202px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#UIC_LOGO {
+		position: absolute;
+		width: 84px;
+		height: 75px;
+		left: 367px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Notifications {
+		position: absolute;
+		left: 1024px;
+		top: 26px;
+		overflow: visible;
+		width: 123px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Settings {
+		position: absolute;
+		left: 1212px;
+		top: 26px;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#User_Icon {
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 42px;
+		top: 184px;
+		overflow: visible;
+	}
+	#Home {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 45px;
+		top: 123px;
+		overflow: visible;
+	}
+	#Program {
+		position: absolute;
+		width: 24px;
+		height: 21px;
+		left: 44px;
+		top: 320px;
+		overflow: visible;
+	}
+	#Notification_512 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 997px;
+		top: 32px;
+		overflow: visible;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 306px;
+		height: 43px;
+		left: 0px;
+		top: 245px;
+	}
+	#Windows_Settings_app_icon {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 1187px;
+		top: 31px;
+		overflow: visible;
+	}
+	#black_arrow_down_icon_png_16 {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 1146px;
+		top: 31px;
+		overflow: visible;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 1011px;
+		height: 628px;
+		left: 336px;
+		top: 107px;
+	}
+	#MESSAGE {
+		position: absolute;
+		left: 93px;
+		top: 251px;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#Message {
+		position: absolute;
+		width: 27px;
+		height: 19px;
+		left: 42px;
+		top: 255px;
+		overflow: visible;
+	}
+	#Avatar {
+		position: absolute;
+		width: 126px;
+		height: 126px;
+		left: 1125px;
+		top: 384px;
+		overflow: visible;
+	}
+	#UIC_LOGO_ {
+		position: absolute;
+		width: 127px;
+		height: 113px;
+		left: 432px;
+		top: 195px;
+		overflow: visible;
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 658px;
+		height: 130px;
+		left: 577px;
+		top: 187px;
+	}
+	#University_of_the_Immaculate_C_ {
+		position: absolute;
+		left: 592px;
+		top: 154px;
+		overflow: visible;
+		width: 424px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Hi__Praised_be_Jesus_and_Mary_ {
+		position: absolute;
+		left: 617px;
+		top: 229px;
+		overflow: visible;
+		width: 590px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 658px;
+		height: 130px;
+		left: 454px;
+		top: 384px;
+	}
+	#Vincent_Dinero {
+		position: absolute;
+		left: 945px;
+		top: 351px;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+	}
+	#How_much_is_the_downpayment_in {
+		position: absolute;
+		left: 503px;
+		top: 431px;
+		overflow: visible;
+		width: 562px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
